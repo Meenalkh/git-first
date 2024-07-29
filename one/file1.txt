@@ -1,8 +1,5 @@
 this is my file 1
 adding more content to file 1
 
-<<<<<<< HEAD
+ adding messaging section in file one
 2025 is comming
-=======
-2024 is coming
->>>>>>> bug-fix
