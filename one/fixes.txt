@@ -1,0 +1,3 @@
+one bug is fixed.
+second bug is fixed.
+third bug is detected and fixed.
